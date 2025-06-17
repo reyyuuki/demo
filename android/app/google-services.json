@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "703036668584",
+    "project_id": "i2-interfaces",
+    "storage_bucket": "i2-interfaces.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:703036668584:android:f27ac0b0b5703f1c0d209d",
+        "android_client_info": {
+          "package_name": "com.example.demo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBizfdFJU3asgWlxT1wLHpuh9sA2JlIid8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
